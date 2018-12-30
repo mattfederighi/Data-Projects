@@ -1,88 +1,16 @@
-# Project Title
+# FordGo Bikeshare Data
 
-One Paragraph of project description goes here
+The Jupyter Notebook attached contains an EDA of the FordGo Bikeshare data from June 2017 to November 2018. [Here is a link to the dataset.](https://s3.amazonaws.com/fordgobike-data/index.html) 
 
-## Getting Started
+## Why Am I Doing This? 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+In early July 2018, Lyft acquired Motivate, the largest bikeshare operator in North America. Motivate operates many of the largest bikeshare systems in North America, including Citi Bike (New York), Ford GoBike (San Francisco Bay area), Divvy (Chicago), Blue Bikes (Boston metro area), Capital Bikeshare (Washington, D.C. metro area), BIKETOWN (Portland metro area), CoGo (Columbus, Ohio), and Nice Ride (Minneapolis). In 2017, 80 percent of the bikeshare trips in the United States were on Motivate-operated systems. 
 
-### Prerequisites
+For more detailed information on the acquisition, [click this link.](https://blog.lyft.com/posts/lyft-to-acquire-us-bikeshare-leader)
 
-What things you need to install the software and how to install them
+Since Ford GoBike is located in the San Francisco Bay Area (including Oakland, San Francisco, and San Jose), I was particularly interested in the details around Ford GoBikes. There are a few stations right around my house and wanted to explore the data to get a better understanding of the service. 
 
-```
-Give examples
-```
+In the Jupyter Notebook attached, I have conducted an EDA with the Ford GoBike data which shows some general trends, demographic information on riders, and gives us a better understanding of how Ford GoBikes operate around the San Francisco Bay Area. 
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+In future analysis, I will bring in data from WeatherUnderground and attempt tp predict ridership based on the weather. 
 
