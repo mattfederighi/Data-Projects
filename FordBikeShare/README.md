@@ -1,6 +1,7 @@
 # FordGo Bikeshare Data
 
-The Jupyter Notebook attached contains an EDA of the FordGo Bikeshare data from June 2017 to November 2018. [Here is a link to the dataset.](https://s3.amazonaws.com/fordgobike-data/index.html) 
+The Jupyter Notebook attached contains an EDA of the FordGo Bikeshare data from June 2017 to November 2018. 
+[Here is a link to the dataset.](https://s3.amazonaws.com/fordgobike-data/index.html) 
 
 ## Why Am I Doing This? 
 
