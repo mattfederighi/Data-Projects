@@ -1,4 +1,4 @@
-# Matt Federighi's Portfolio
+# About Matt
 
 I’ve spent a lot of time in nature climbing walls, hiking mountains and sleeping under the stars deep in the backcountry. Adventure, Exploration, and Storytelling have always been major aspects of my life, which is why I’ve now found myself trekking around in the vast world of Data Science. 
 
