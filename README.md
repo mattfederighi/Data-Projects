@@ -6,6 +6,8 @@ When I tell people that I’m in the world of Data Science, most of them give me
 
 ## About this Portfolio
 
+Above you will find a list of folders with a sample of projects I have worked on (both professionally and academically). In each folder you will find a README.md file that will explain the project at a high level as well as why I chose to do that project. You will also find a Jupyter notebook / Tableau Workbook that shows my methodology and visualizations for the project. Datasets are not uploaded here, but feel free to reach out if you would like access to any data. 
+
 Note that I am constantly adding new projects to this portfolio and I am often updating existing projects if I learn new techniques and want to apply them to datasets I am familiar with. If you have any questions about projects or if you want to know why I chose a particular method over another, please don't hesitate to reach out! 
 
 [Connect With Me On LinkedIn](https://www.linkedin.com/in/mattfederighi/)
