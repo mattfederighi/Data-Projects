@@ -1,88 +1,11 @@
-# Project Title
+# Matt Federighi's Portfolio
 
-One Paragraph of project description goes here
+I’ve spent a lot of time in nature climbing walls, hiking mountains and sleeping under the stars deep in the backcountry. Adventure, Exploration, and Storytelling have always been major aspects of my life, which is why I’ve now found myself trekking around in the vast world of Data Science. 
 
-## Getting Started
+When I tell people that I’m in the world of Data Science, most of them give me a blank stare and tell me that they couldn’t do that because they were never good at math. To me, data is much more than numbers and math. It’s an adventure where you get to explore large quantities of data, uncovering hidden insights and transforming that information into a story that everyone can understand. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## About this Portfolio
 
-### Prerequisites
+Note that I am constantly adding new projects to this portfolio and I am often updating existing projects if I learn new techniques and want to apply them to datasets I am familiar with. If you have any questions about projects or if you want to know why I chose a particular method over another, please don't hesitate to reach out! 
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+[Connect With Me On LinkedIn](https://www.linkedin.com/in/mattfederighi/)
