@@ -1,88 +1,9 @@
-# Project Title
+# Dr. Demmelweis and The Discovery of Handwashing
 
-One Paragraph of project description goes here
+In 1847 the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: He discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. In this python project we will reanalyze the medical data Semmelweis collected.
 
-## Getting Started
+## Why Am I Doing This?
+After completing The Data Scientist, Data Analyst, and Python Programmer career tracks on DataCamp, I decided to look more into the projects that they offer. This was one of the first I completed and I found the subject very interesting since I am a serial hand washer. This is one of those projects that many people forget to think about, how did our natural tendencies in modern life come about? These types of questions are very fun for me and I love to explore these kinds of topics. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Before diving into the project I read more about [Dr. Semmelweis](https://en.wikipedia.org/wiki/Ignaz_Semmelweis) and I was very intrigued to move forward with the work. According to Wikipedia: "Despite various publications of results where hand washing reduced mortality to below 1%, Semmelweis's observations conflicted with the established scientific and medical opinions of the time and his ideas were rejected by the medical community. Semmelweis could offer no acceptable scientific explanation for his findings, and some doctors were offended at the suggestion that they should wash their hands and mocked him for it. In 1865, Semmelweis suffered a nervous breakdown and was committed to an asylum, where he died at age 47 of pyaemia, after being beaten by the guards, only 14 days after he was committed. Semmelweis's practice earned widespread acceptance only years after his death, when Louis Pasteur confirmed the germ theory and Joseph Lister, acting on the French microbiologist's research, practiced and operated, using hygienic methods, with great success."
 
