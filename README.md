@@ -10,4 +10,4 @@ Above you will find a list of folders with a sample of projects I have worked on
 
 Note that I am constantly adding new projects to this portfolio and I am often updating existing projects if I learn new techniques and want to apply them to datasets I am familiar with. If you have any questions about projects or if you want to know why I chose a particular method over another, please don't hesitate to reach out! 
 
-[Connect With Me On LinkedIn](https://www.linkedin.com/in/mattfederighi/)
+## [Connect With Me On LinkedIn](https://www.linkedin.com/in/mattfederighi/)
