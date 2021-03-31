@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data>
+    <student name="Steven Smith">
+        <age>17</age>
+        <grade>12</grade>
+        <quiz>98</quiz>
+		<midterm>78</midterm>
+	    <final>82</final>
+    </student>
+    <student name="James Brown">
+        <age>16</age>
+        <grade>12</grade>
+        <quiz>76</quiz>
+		<midterm>81</midterm>
+	    <final>78</final>
+    </student>
+    <student name="Mary Olsen">
+        <age>17</age>
+        <grade>12</grade>
+        <quiz>91</quiz>
+		<midterm>89</midterm>
+	    <final>96</final>
+    </student>
+</data>
